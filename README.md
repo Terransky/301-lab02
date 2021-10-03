@@ -2,9 +2,10 @@
 
 Modifying a template portfolio and filling it with my own accomplishments at this web address via netlify:
 
-https://anthonyturinskiportfolio.netlify.app/
+<https://anthonyturinskiportfolio.netlify.app>
 
 This project is an exercise in practicing Trello work flow as well.
+<https://trello.com/b/MfZKzyOe/react-portfolio>
 
 Number and name of feature: Lab 02, Deploy and Extend Your Portfolio
 
