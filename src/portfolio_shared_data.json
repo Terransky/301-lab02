@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/Terransky",
+          "url": "https://github.com",
           "class": "fab fa-github"
         },
         {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/anthony-turinski-7722721b7/",
-          "class": "fab fa-linkedin"
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
         }
       ],
       "image": "myProfile.jpg"
